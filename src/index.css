@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+/* Base styles to ensure minimal, high-contrast layout */
+html, body, #root {
+  height: 100%;
+}
+body {
+  margin: 0;
+}
